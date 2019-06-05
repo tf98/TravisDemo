@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/tf98/TravisDemo.svg?branch=master)](https://travis-ci.org/tf98/TravisDemo)
 # TravisDemo
 In this repository you can find the code for my tutorial
 
